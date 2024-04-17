@@ -5,24 +5,37 @@ Many of the existing machine learning models for health care analysis are concen
 Highlights Of The Project:
 
 Disease prediction by patient health data and treatment history through machine learning techniques and applying data mining is a continuing struggle for past decades.The Classification algorithms is generally used to predict diseases analyzing patient health data and treatment history. Prediction by a traditional sickness threat model typically involves a machine learning and some supervised algorithm which uses guidance data with the label for the preparation of the models.
+
 Uses Cases Contain:
+
 Preventative care: Predicting disease epidemic on both the personal and the public level.
 Diagnostic care: Repeatedly classified illustration data, such as x-rays or scans, etc.
 Insurance: Adjust premiums of coverage based on openly available risk factors.
+
 As hospitals maintain to modernize patient reports and gather more grainy health information, Prediction System Machine Learning Project is the arrival of low-hanging fruit opportunity for health scientists to make a difference.
 
 
 Algorithm Used to Predict Disease
-Classification Algorithms Decision Tree Support vector Machine(SVM) Logistic Regression(LR)
+
+Classification Algorithms 
+Decision Tree 
+Support vector Machine(SVM) 
+Logistic Regression(LR)
+
 Static Pages and other sections:
+
 These static pages will be available in project Disease Prediction System
 Home Page with good Ul Home Page will contain an animated slider for images banner About us page will be available which will describe about the project Contact us page will be available in the project
+
 Technology Used in the project Disease Prediction System
+
 HTML: Page layout has been designed in HTML CSS CSS has been used for all the desigining part.
 JavaScript: All the validation task and animations has been developed by JavaScript 
 Python: All the business logic has been implemented in Python 
 MySQL: MySQL database has been used as database for the project 
 Django: Project has been developed over the Django Framework 
 Streamlit: Python library
+
 Summary-
+
  The use of different ML algorithms enabled the early detection of many maladies such as heart, kidney, breast, and brain diseases. In future work, the creation of more complex ML algorithms is much needed to increase the efficiency of disease prediction.
