@@ -11,7 +11,9 @@ Disease prediction by patient health data and treatment history through machine 
 Uses Cases Contain:
 
 Preventative care: Predicting disease epidemic on both the personal and the public level.
+
 Diagnostic care: Repeatedly classified illustration data, such as x-rays or scans, etc.
+
 Insurance: Adjust premiums of coverage based on openly available risk factors.
 
 As hospitals maintain to modernize patient reports and gather more grainy health information, Prediction System Machine Learning Project is the arrival of low-hanging fruit opportunity for health scientists to make a difference.
