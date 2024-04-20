@@ -3,3 +3,5 @@ streamlit run "C:\Users\ACER\Documents\Omni-Health\MDPS.py"
                               OR
 
 py -m streamlit run c:/Users/ACER/Documents/Omni-Health/MDPS.py
+
+use acording to python version
